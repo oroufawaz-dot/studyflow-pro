@@ -34,7 +34,7 @@ PRIX_PRO = int(os.getenv("STUDYFLOW_PRO_PRICE", "1000"))
 DB_FILE = Path(os.getenv("STUDYFLOW_DB", "db.json"))
 
 ADMIN_FawazBigBoss = os.getenv("STUDYFLOW_ADMIN_ID", "admin")
-ADMIN_BigBoss29 = os.getenv("STUDYFLOW_ADMIN_PASSWORD", "")
+ADMIN_BigBoss = os.getenv("STUDYFLOW_ADMIN_PASSWORD", "")
 TRIAL_LIMITS = {
     "taches": 3,
     "matieres": 1,
