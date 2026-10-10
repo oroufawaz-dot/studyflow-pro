@@ -1,0 +1,16 @@
+{
+  "name": "StudyFlow - Benin",
+  "short_name": "StudyFlow",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "0e3309b2-d8ee-6996-3018-5d74e8147d8d.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
